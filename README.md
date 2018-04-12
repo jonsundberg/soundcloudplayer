@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+## Demo
+<https://vue-soundcloudplayer.herokuapp.com/> 
+
 ## Build Setup
 
 ``` bash
